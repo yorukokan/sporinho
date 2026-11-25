@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C67162,50:D98A7C,100:6B8F78&height=210&section=header&text=Sporinho%20%E2%99%A5&fontSize=56&fontColor=FAF7F2&fontAlignY=38&desc=Personal%20Gym%20Guide%20%26%20PWA%20Workout%20Planner%20%C2%B7%20Ki%C5%9Fisel%20Spor%20Salonu%20Rehberi&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Sporinho Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C67162,50:D98A7C,100:6B8F78&height=210&section=header&text=Sporinho%20%E2%99%A5&fontSize=56&fontColor=FAF7F2&fontAlignY=38&desc=Personal%20Gym%20Guide%20%E2%80%A2%20PWA%20Workout%20Planner%20%C2%B7%20Ki%C5%9Fisel%20Spor%20Salonu%20Rehberi&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Sporinho Hero Banner" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://sporinho.vercel.app">
